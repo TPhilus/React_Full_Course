@@ -1,70 +1,84 @@
-# Getting Started with Create React App
+<div align="center" id="top"> 
+  <img src="./.github/app.gif" alt="My First App" />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  &#xa0;
 
-## Available Scripts
+  <!-- <a href="https://myfirstapp.netlify.app">Demo</a> -->
+</div>
 
-In the project directory, you can run:
+<h1 align="center">My First App</h1>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<!-- Status -->
 
-### `npm test`
+<h4 align="center"> 
+	🚧  My First App 🚀 Under construction...  🚧
+</h4> 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<hr>
 
-### `npm run build`
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/Tphilus" target="_blank">Author</a>
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## :dart: About ##
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Describe your project
 
-### `npm run eject`
+## :sparkles: Features ##
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+:heavy_check_mark: Feature 1;\
+:heavy_check_mark: Feature 2;\
+:heavy_check_mark: Feature 3;
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## :rocket: Technologies ##
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+The following tools were used in this project:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-## Learn More
+## :white_check_mark: Requirements ##
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## :checkered_flag: Starting ##
 
-### Code Splitting
+```bash
+# Clone this project
+$ git clone https://github.com/Tphilus/my-first-app
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# Access
+$ cd my-first-app
 
-### Analyzing the Bundle Size
+# Install dependencies
+$ yarn
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# Run the project
+$ yarn start
 
-### Making a Progressive Web App
+# The server will initialize in the <http://localhost:3000>
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## :memo: License ##
 
-### Advanced Configuration
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+Made with :heart: by <a href="https://github.com/Tphilus" target="_blank">{{YOUR_NAME}}</a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+&#xa0;
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<a href="#top">Back to top</a>
